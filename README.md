@@ -1,1 +1,3 @@
-"# php_session_login_logout_system" 
+# php_session_login_logout_system 
+
+<span>Esse projeto é um sistema de login e logout simples feito em php, nele têm 4 páginas: o index de boas vindas, a do cliente, a de produtos do cliente e a de formulário para login. digitando a senha correta no formulário de login o sistema usa a super global $_SESSION para libera o accesso, caso o usuário ou a senha esteja incorreto ele redireciona para a página inicial</span>
